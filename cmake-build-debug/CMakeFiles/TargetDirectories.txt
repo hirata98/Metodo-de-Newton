@@ -1,0 +1,3 @@
+C:/Users/tanak/OneDrive/Documents/CN/Newton0.2/cmake-build-debug/CMakeFiles/Newton0_2.dir
+C:/Users/tanak/OneDrive/Documents/CN/Newton0.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tanak/OneDrive/Documents/CN/Newton0.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
